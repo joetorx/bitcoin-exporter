@@ -1,0 +1,9 @@
+.venv
+__pycache__
+.pytest_cache
+.DS_Store
+tests/data/*.log
+exporter.yaml
+.idea
+logs
+bitcoin_exporter.yaml
